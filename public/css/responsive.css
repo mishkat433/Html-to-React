@@ -1,0 +1,8 @@
+@media screen and (max-width:500px){
+    span.navbar-toggler-icon {
+        border-radius: 4px;
+        color: #2d1044;
+        margin-top: 10px;
+    
+    }
+}
